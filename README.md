@@ -53,12 +53,13 @@
   <img src="https://github.com/MakaronX/MakaronX/blob/main/img/Webovio.gif" alt="Webovio"/>
 </div>
 
-# <p style="color: blue;">Denis Novik</p>
+<!-- Denis Novik -->
+<p style="color: blue;">Denis Novik</p>
 
-* Denis Novikov is a test project on the Internet
+<p>Denis Novikov is a test project on the Internet</p>
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="https://github.com/MakaronX/MakaronX/blob/main/img/Denis Novik.png" alt="Denis Novik"">
+  <img src="https://github.com/MakaronX/MakaronX/blob/main/img/Denis%20Novik.png" alt="Denis Novik">
 </div>
 
 ### :fire: My Stats :
