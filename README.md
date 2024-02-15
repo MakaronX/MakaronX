@@ -33,6 +33,17 @@
   <img src="https://github.com/MakaronX/MakaronX/blob/main/img/RENOVA img.png" alt="Renova"/>
 </div>
 
+# [RenovaConstruct](https://makaronx.github.io/layout_landing-page/#) 
+<p align="left" color="blue"></p>
+
+* RenovaConstruct - is a modern website on the topic of renovation;
+* The front-end project was entirely created by two people;
+* Server side is built with JavaScript, PHP programming language (& Ajax). Hosted on NameCheap;
+
+<div>
+  <img src="https://github.com/MakaronX/MakaronX/blob/main/img/Webovio.gif" alt="Webovio"/>
+</div>
+
 # [Webovio]
 <p align="left" color="blue"></p>
 
@@ -44,7 +55,7 @@
   <img src="https://github.com/MakaronX/MakaronX/blob/main/img/Webovio.gif" alt="Webovio"/>
 </div>
 
-# [Test project]
+# [Denis Novik test project]
 <p align="left" color="blue"></p>
 
 * RenovaConstruct - is a modern website on the topic of renovation;
@@ -52,9 +63,7 @@
 * Server side is built with JavaScript, PHP programming language (& Ajax). Hosted on NameCheap;
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="https://github.com/MakaronX/MakaronX/blob/main/img/Denis.jpg" alt="Denis Novik" style="width: 30%;">
-  <img src="https://github.com/MakaronX/MakaronX/blob/main/img/XMRpoker.jpg" alt="XMR Poker" style="width: 30%;">
-  <img src="https://github.com/MakaronX/MakaronX/blob/main/img/Xiaomi.jpg" alt="Xiaomi" style="width: 30%;">
+  <img src="https://github.com/MakaronX/MakaronX/blob/main/img/Denis Novik.png" alt="Denis Novik"">
 </div>
 
 ### :fire: My Stats :
