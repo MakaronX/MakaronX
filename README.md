@@ -66,8 +66,15 @@
   <img src="https://github.com/MakaronX/MakaronX/blob/main/img/Denis%20Novik.png" alt="Denis Novik">
 </div>
 
+# Contact info
+<p align="left" style="color: blue;"></p>
+
+* Gmail: <a href="khmilovskyioleh@gmail.com">khmilovskyioleh@gmail.com</a>
+
+<!-- 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MakaronX&theme=highcontrast&hide_border=true&border_radius=10&mode=weekly)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MakaronX&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MakaronX&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)  
+-->
 
