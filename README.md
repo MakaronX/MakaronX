@@ -44,7 +44,7 @@
   <img src="https://github.com/MakaronX/MakaronX/blob/main/img/Webovio.gif" alt="Webovio"/>
 </div>
 
-# [Webovio]
+# Webovio
 <p align="left" color="blue"></p>
 
 * Webovio - a website created using a layout from the Internet
@@ -53,7 +53,7 @@
   <img src="https://github.com/MakaronX/MakaronX/blob/main/img/Webovio.gif" alt="Webovio"/>
 </div>
 
-# [Denis Novik test project]
+# Denis Novik
 <p align="left" color="blue"></p>
 
 * Denis Novikov is a test project on the Internet
