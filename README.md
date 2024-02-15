@@ -23,9 +23,9 @@
 ---
 
 <div>
-  <img src="https://github.com/MakaronX/MakaronX/blob/main/img/Iphone.png" alt="Iphone"/>
-  <img src="https://github.com/MakaronX/MakaronX/blob/main/img/Ipad.png" alt="Ipad"/>
-  <img src="https://github.com/MakaronX/MakaronX/blob/main/img/Imac.png" alt="Imac"/>
+  <img src="https://github.com/MakaronX/MakaronX/blob/main/img/Iphone.png" alt="Iphone" width="40" height="40"/>
+  <img src="https://github.com/MakaronX/MakaronX/blob/main/img/Ipad.png" alt="Ipad" width="40" height="40"/>
+  <img src="https://github.com/MakaronX/MakaronX/blob/main/img/Imac.png" alt="Imac" width="40" height="40"/>
 </div>
 
 ### :fire: My Stats :
