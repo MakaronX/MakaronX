@@ -13,17 +13,6 @@
   </h1>
 </div>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
-
-
-- :telescope: I am a beginner programmer on the topic WEB DEVELOPER in the future I want to become Full-stack
-
-- :seedling: I produce websites and also adapt them and speed up the site
-
-- :zap: In my free time I learn new programming languages and watch movies
-
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
