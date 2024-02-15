@@ -45,7 +45,7 @@
 </div>
 
 # Webovio
-<p align="left" color="blue"></p>
+<p align="left" style="color: blue;"></p>
 
 * Webovio - a website created using a layout from the Internet
 
