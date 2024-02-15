@@ -38,9 +38,8 @@
 # [MyBike](https://makaronx.github.io/layout_landing-page/#) 
 <p align="left" color="blue"></p>
 
-* RenovaConstruct - is a modern website on the topic of renovation;
-* The front-end project was entirely created by two people;
-* Server side is built with JavaScript, PHP programming language (& Ajax). Hosted on NameCheap;
+* MyBike is a ready-made test project from Mate-Academy;
+* The website was created according to SCSS standards, optimised and simplified;
 
 <div>
   <img src="https://github.com/MakaronX/MakaronX/blob/main/img/Webovio.gif" alt="Webovio"/>
@@ -61,6 +60,7 @@
 <p align="left" style="color: blue;"></p>
 
 * Denis Novikov - is a test project on the Internet;
+* The site was created by the portfolio;
 
 <div style="display: flex; justify-content: space-between;">
   <img src="https://github.com/MakaronX/MakaronX/blob/main/img/Denis%20Novik.png" alt="Denis Novik">
