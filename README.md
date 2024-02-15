@@ -33,7 +33,7 @@
   <img src="https://github.com/MakaronX/MakaronX/blob/main/img/RENOVA img.png" alt="Renova"/>
 </div>
 
-# [RenovaConstruct](https://makaronx.github.io/layout_landing-page/#) 
+# [MyBike](https://makaronx.github.io/layout_landing-page/#) 
 <p align="left" color="blue"></p>
 
 * RenovaConstruct - is a modern website on the topic of renovation;
@@ -47,9 +47,7 @@
 # [Webovio]
 <p align="left" color="blue"></p>
 
-* RenovaConstruct - is a modern website on the topic of renovation;
-* The front-end project was entirely created by two people;
-* Server side is built with JavaScript, PHP programming language (& Ajax). Hosted on NameCheap;
+* Webovio - a website created using a layout from the Internet
 
 <div>
   <img src="https://github.com/MakaronX/MakaronX/blob/main/img/Webovio.gif" alt="Webovio"/>
@@ -58,9 +56,7 @@
 # [Denis Novik test project]
 <p align="left" color="blue"></p>
 
-* RenovaConstruct - is a modern website on the topic of renovation;
-* The front-end project was entirely created by two people;
-* Server side is built with JavaScript, PHP programming language (& Ajax). Hosted on NameCheap;
+* Denis Novikov is a test project on the Internet
 
 <div style="display: flex; justify-content: space-between;">
   <img src="https://github.com/MakaronX/MakaronX/blob/main/img/Denis Novik.png" alt="Denis Novik"">
