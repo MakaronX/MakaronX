@@ -50,7 +50,7 @@
 # [Webovio](#) 
 <p align="left" style="color: blue;"></p>
 
-* Webovio - a website created using a layout from the Internet
+* Webovio - a website created using a layout from the Internet;
 
 <div>
   <img src="https://github.com/MakaronX/MakaronX/blob/main/img/Webovio.gif" alt="Webovio"/>
@@ -60,7 +60,7 @@
 # [Denis Novik](#) 
 <p align="left" style="color: blue;"></p>
 
-<p>Denis Novikov is a test project on the Internet</p>
+* Denis Novikov - is a test project on the Internet;
 
 <div style="display: flex; justify-content: space-between;">
   <img src="https://github.com/MakaronX/MakaronX/blob/main/img/Denis%20Novik.png" alt="Denis Novik">
