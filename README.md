@@ -25,10 +25,9 @@
 # [RenovaConstruct](https://renovaco.nl) 
 <p align="left" color="blue"></p>
 
-* DMV Test Prep - it's cross-platform mobile application build in Flutter;
-* As s sole developer I fully designed and implemented front-end and back-end solutions;
-* Server side is built with Swift programming language (Vapor framework). Hosted on Heroku;
-* Database - PostgresQL. Hosted on AWS.
+* RenovaConstruct - is a modern website on the topic of renovation;
+* The front-end project was entirely created by two people;
+* Server side is built with JavaScript, PHP programming language (& Ajax). Hosted on NameCheap;
 
 <div>
   <img src="https://github.com/MakaronX/MakaronX/blob/main/RENOVA img.png" alt="Renova"/>
