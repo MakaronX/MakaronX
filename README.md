@@ -53,8 +53,7 @@
   <img src="https://github.com/MakaronX/MakaronX/blob/main/img/Webovio.gif" alt="Webovio"/>
 </div>
 
-# Denis Novik
-<p align="left" color="blue"></p>
+# <p style="color: blue;">Denis Novik</p>
 
 * Denis Novikov is a test project on the Internet
 
