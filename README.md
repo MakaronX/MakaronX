@@ -42,7 +42,7 @@
 * The website was created according to SCSS standards, optimised and simplified;
 
 <div>
-  <img src="https://github.com/MakaronX/MakaronX/blob/main/img/Webovio.gif" alt="Webovio"/>
+  <img src="https://github.com/MakaronX/MakaronX/blob/main/img/MyBike.png" alt="MyBike"/>
 </div>
 
 <!-- Webovio -->
