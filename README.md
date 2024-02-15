@@ -44,7 +44,18 @@
   <img src="https://github.com/MakaronX/MakaronX/blob/main/img/Webovio.gif" alt="Webovio"/>
 </div>
 
+# [Test project]
+<p align="left" color="blue"></p>
 
+* RenovaConstruct - is a modern website on the topic of renovation;
+* The front-end project was entirely created by two people;
+* Server side is built with JavaScript, PHP programming language (& Ajax). Hosted on NameCheap;
+
+<div>
+  <img src="https://github.com/MakaronX/MakaronX/blob/main/img/Denis.jpg" alt="Denis Novik"/>
+  <img src="https://github.com/MakaronX/MakaronX/blob/main/img/XMRpoker.jpg" alt="XMR Poker"/>
+  <img src="https://github.com/MakaronX/MakaronX/blob/main/img/Xiaomi.jpg" alt="Xiaomi"/>
+</div>
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MakaronX&theme=highcontrast&hide_border=true&border_radius=10&mode=weekly)](https://git.io/streak-stats)
