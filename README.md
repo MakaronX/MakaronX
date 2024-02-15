@@ -22,6 +22,7 @@
 
 ---
 
+<!-- RenovaConstruct -->
 # [RenovaConstruct](https://renovaco.nl) 
 <p align="left" color="blue"></p>
 
@@ -33,6 +34,7 @@
   <img src="https://github.com/MakaronX/MakaronX/blob/main/img/RENOVA img.png" alt="Renova"/>
 </div>
 
+<!-- #region MyBike -->
 # [MyBike](https://makaronx.github.io/layout_landing-page/#) 
 <p align="left" color="blue"></p>
 
@@ -44,7 +46,8 @@
   <img src="https://github.com/MakaronX/MakaronX/blob/main/img/Webovio.gif" alt="Webovio"/>
 </div>
 
-# Webovio
+<!-- Webovio -->
+# [Webovio](#) 
 <p align="left" style="color: blue;"></p>
 
 * Webovio - a website created using a layout from the Internet
@@ -53,8 +56,9 @@
   <img src="https://github.com/MakaronX/MakaronX/blob/main/img/Webovio.gif" alt="Webovio"/>
 </div>
 
-<!-- Denis Novik -->
-<p style="color: blue;">Denis Novik</p>
+<!-- Denis -->
+# [Denis Novik](#) 
+<p align="left" style="color: blue;"></p>
 
 <p>Denis Novikov is a test project on the Internet</p>
 
