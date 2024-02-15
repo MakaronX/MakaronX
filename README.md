@@ -52,9 +52,9 @@
 * Server side is built with JavaScript, PHP programming language (& Ajax). Hosted on NameCheap;
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="https://github.com/MakaronX/MakaronX/blob/main/img/Denis.jpg" alt="Denis Novik" style="width: 30%;">
-  <img src="https://github.com/MakaronX/MakaronX/blob/main/img/XMRpoker.jpg" alt="XMR Poker" style="width: 30%;">
-  <img src="https://github.com/MakaronX/MakaronX/blob/main/img/Xiaomi.jpg" alt="Xiaomi" style="width: 30%;">
+  <img src="https://github.com/MakaronX/MakaronX/blob/main/img/Denis.jpg" alt="Denis Novik">
+  <img src="https://github.com/MakaronX/MakaronX/blob/main/img/XMRpoker.jpg" alt="XMR Poker">
+  <img src="https://github.com/MakaronX/MakaronX/blob/main/img/Xiaomi.jpg" alt="Xiaomi">
 </div>
 
 ### :fire: My Stats :
