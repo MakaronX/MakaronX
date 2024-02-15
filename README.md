@@ -2,18 +2,6 @@
   <img src="https://media.giphy.com/media/fZEjmflebo9ZKQXpgh/giphy.gif" width="200"/>
 </div>
 
-<div id="badges" align="center">
-  <a href="your-instagram-URL">
-    <img src="https://img.shields.io/badge/Insctagram-black?logo=Instagram&logoColor=orange&style=for-the-badge" alt="LinkedIn Badge"/>
-  </a>
-  <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
-
 <div id="views" align="center">
   <img src="https://komarev.com/ghpvc/?username=MakaronX" alt=""/>
 </div>
