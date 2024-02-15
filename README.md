@@ -21,6 +21,10 @@
 </div>
 
 ---
+* DMV Test Prep - it's cross-platform mobile application build in Flutter;
+* As s sole developer I fully designed and implemented front-end and back-end solutions;
+* Server side is built with Swift programming language (Vapor framework). Hosted on Heroku;
+* Database - PostgresQL. Hosted on AWS.
 
 <div>
   <img src="https://github.com/MakaronX/MakaronX/blob/main/RENOVA img.png" alt="Renova"/>
