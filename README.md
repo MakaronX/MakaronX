@@ -58,7 +58,7 @@
 <details> 
   <summary>
     <h1>🛠</h1>
-    <img width="100" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=42&duration=500&pause=100&color=f5bb40&center=true&vCenter=true&repeat=false&lines=Rz+Agency" alt="Typing SVG" style="max-width: 100%; height: auto;" />
+    <img width="250" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=42&duration=500&pause=100&color=f5bb40&repeat=false&lines=Rz+Agency" alt="Typing SVG" style="max-width: 100%; height: auto;" />
   </summary>
 
   ### 📌 Overview
