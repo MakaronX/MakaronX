@@ -1,5 +1,8 @@
 <div id="header" align="center">
-  <h1 style="margin: 0; font-size: 36px; color: #00FFAB;">Oleh Khmilovskyi</h1>
+  <p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00FFAB&center=true&vCenter=true&width=435&lines=Oleh+Khmilovskyi;Full-stack+web+developer;React+%7C+Next.js+%7C+Tailwind+%7C+TypeScript" alt="Typing SVG" />
+  </p>
+
   <img src="/img/meme.gif" width="200"/>
 </div>
 
