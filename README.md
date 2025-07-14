@@ -1,9 +1,19 @@
-<div id="header" align="center">
-  <img src="/img/meme.gif" width="200"/>
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="/img/meme.gif" width="150" alt="gif" />
+      </td>
+      <td align="left" style="padding-left: 20px;">
+        <h1 style="margin: 0; font-size: 36px;">Oleh</h1>
+        <h3 style="margin: 0; font-weight: normal; color: gray;">Khmilovskyi</h3>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <div id="views" align="center">
-  <img src="https://komarev.com/ghpvc/?username=MakaronX" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=MakaronX&style=flat-square" alt="profile views"/>
 </div>
 
 ---
