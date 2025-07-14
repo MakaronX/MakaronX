@@ -1,15 +1,32 @@
-<div id="header" align="center">
+<!-- HEADER: GIF + NAME -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MakaronX/assets/main/animated-name.svg" alt="Animated Name" />
+  <table>
+    <tr>
+      <td>
+        <img src="https://media.giphy.com/media/3o6ZtaO9BZHcOjmErm/giphy.gif" width="200" />
+      </td>
+      <td style="text-align: left; padding-left: 30px;">
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=00FFAB&center=false&vCenter=true&repeat=false&width=400&lines=Oleh+Khmilovskyi" alt="Neon name" />
+      </td>
+    </tr>
+  </table>
 </p>
 
-
-  <img src="/img/meme.gif" width="200"/>
-</div>
-
-<div id="views" align="center">
-  <img src="https://komarev.com/ghpvc/?username=MakaronX" alt=""/>
-</div>
+<p align="center">
+  <a href="mailto:khmilovskyioleh@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://t.me/your_username">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+  <a href="https://github.com/MakaronX">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://khmilov.com">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=MakaronX&label=Views&color=blue&style=for-the-badge" />
+</p>
 
 ---
 
