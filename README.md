@@ -1,14 +1,10 @@
-<!-- ИМЯ -->
-<h1 align="center" style="font-size: 42px; color: #00FFAB; margin-bottom: 10px;">
-  Oleh Khmilovskyi
-</h1>
-
-<!-- ГИФКА -->
-<p align="center">
+<!-- cap -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&duration=2000&pause=500&color=00FFAB&center=true&vCenter=true&repeat=false&lines=Oleh+Khmilovskyi" alt="Blinking Name" />
   <img src="/img/meme.gif" width="180" alt="GIF" />
-</p>
+</div>
 
-<!-- СОЦ. ИКОНКИ -->
+<!-- links -->
 <p align="center" style="margin-top: 20px;">
   <a href="mailto:khmilovskyioleh@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-C14438?style=for-the-badge&logo=gmail&logoColor=white" />
