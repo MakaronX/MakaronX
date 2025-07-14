@@ -132,8 +132,8 @@
 
   ### 🔗 Live website
   <p align="left">
-    <a href="https://www.lawlex.live">
-      <img alt="LawLex" title="Live Website" src="https://custom-icon-badges.demolab.com/badge/-Click%20to%20Visit%%20LawLex-1F222E?style=for-the-badge&logoColor=white&logo=fork"/>
+    <a href="https://www.lawlex.live/">
+      <img alt="LawLex" title="Live Website" src="https://img.shields.io/badge/-Click%20to%20Visit%20LawLex-%2300FFAB?style=for-the-badge&logo=vercel&logoColor=black&labelColor=1F1F1F&color=00FFAB" />
     </a>
   </p>
 </details>
