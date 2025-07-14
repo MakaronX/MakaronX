@@ -28,7 +28,7 @@
 <details> 
   <summary>
     <h1>🛠</h1>
-    <img width="250" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=56&color=ff9900&center=true&vCenter=true&repeat=false&lines=Renova+Construct" alt="Typing SVG" style="max-width: 100%; height: auto;" />
+    <img width="250" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=46&color=ff9900&center=true&vCenter=true&repeat=false&lines=Renova+Construct" alt="Typing SVG" style="max-width: 100%; height: auto;" />
   </summary>
 
   <details open> 
