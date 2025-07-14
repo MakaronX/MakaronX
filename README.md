@@ -1,7 +1,7 @@
 <div align="center">
   <div align="center">
     <img src="/img/meme.gif" width="180"/>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&duration=2000&pause=1000&color=00FFAB&center=false&vCenter=true&width=500&height=80&lines=Oleh;Khmilovskyi" alt="Name" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&duration=2000&pause=1000&color=00FFAB&center=false&vCenter=true&width=300&height=200&lines=Oleh;Khmilovskyi" alt="Name" />
   </div>
 </div>
 
