@@ -1,4 +1,4 @@
-<!-- cap -->
+<!-- region cap -->
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&duration=2000&pause=500&color=00FFAB&center=true&vCenter=true&repeat=false&lines=Oleh+Khmilovskyi" alt="Blinking Name" />
   <br />
@@ -24,7 +24,9 @@
 </div>
 
 ---
+<!-- #endregion -->
 
+<!-- region Renova -->
 <details> 
   <summary>
     <h1>🛠</h1>
@@ -52,6 +54,7 @@
   <p align="left">
     <img src="https://skillicons.dev/icons?i=figma,html,css,js,nodejs,php" />
     <img width="48" height="48" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" />
+    <img width="48" height="48" src="https://github.com/devicons/devicon/blob/master/icons/gulp/gulp-plain.svg" />
   </p>
 
   ### 🔗 Live website
@@ -62,6 +65,9 @@
   </p>
 </details>
 
+<!-- #endregion -->
+
+<!-- region RZ -->
 <details> 
   <summary>
     <h1>🛠</h1>
@@ -85,15 +91,25 @@
   - Deployed the site on the hosting with domain and SSL setup.
 
   ### 🧰 Tech Stack
-  `Design` - `React` - `Next.js` - `Tailwind` - `TypeScript` - `JavaScript`.
+  <p align="left">
+    <img src="https://skillicons.dev/icons?i=figma,react,nextjs,tailwind,ts,js" />
+  </p>
 
   ### 🔗 Live website
-  👉 [https://rzagency.nl](https://rzagency.nl)
+  <p align="left">
+    <a href="https://rzagency.nl">
+      <img alt="RzAgency" title="Live Website" src="https://custom-icon-badges.demolab.com/badge/-Click%20to%20Visit%20RZ%20Agency-1F222E?style=for-the-badge&logoColor=white&logo=fork"/>
+    </a>
+  </p>
 </details>
 
+<!-- #endregion -->
+
+<!-- region cap -->
 # 📫 Contact info
 <p align="left" style="color: blue;"></p>
 
 - 🌐 [Khmilov.com](https://khmilov.com)
 - Gmail: <a href="khmilovskyioleh@gmail.com">khmilovskyioleh@gmail.com</a>
 - Based in Amsterdam, open to everyone!
+<!-- #endregion -->
