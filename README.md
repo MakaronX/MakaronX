@@ -1,7 +1,8 @@
 <div id="header" align="center">
-  <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&duration=2000&pause=500&color=00FFAB&center=true&vCenter=true&repeat=false&lines=Oleh+Khmilovskyi" alt="Blinking Name" />
-  </p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MakaronX/assets/main/animated-name.svg" alt="Animated Name" />
+</p>
+
 
   <img src="/img/meme.gif" width="200"/>
 </div>
