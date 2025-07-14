@@ -51,7 +51,7 @@
   ### 🧰 Tech Stack
   <p align="left">
     <img src="https://skillicons.dev/icons?i=figma,html,css,js,nodejs,php" />
-    <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" />
+    <img width="48" height="48" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" />
   </p>
 
   ### 🔗 Live website
