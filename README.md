@@ -20,26 +20,37 @@
 ---
 
 <div align="center" style="max-width: 100%;">
-  <img width="700" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=500&pause=100&color=00FFAB&center=true&vCenter=true&repeat=false&lines=MY+WORK+THAT+YOU+MUST+SEE!" alt="Typing SVG" style="max-width: 100%; height: auto;" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=500&pause=100&color=00FFAB&center=true&vCenter=true&repeat=false&lines=Renova" alt="Typing SVG" style="max-width: 100%; height: auto;" />
 </div>
 
 ---
 
-<details open> 
+<details> 
   <summary>
-    <img width="700" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=500&pause=100&color=00FFAB&center=true&vCenter=true&repeat=false&lines=MY+WORK+THAT+YOU+MUST+SEE!" alt="Typing SVG" style="max-width: 100%; height: auto;" />
+    🛠 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&color=ff9900&center=true&vCenter=true&repeat=false&lines=Renova+Construct" alt="Typing SVG"/>
   </summary>
 
-  <p align="center">
+  <details open> 
+    <summary><h2>📌 Overview</h2></summary>
+
+  - **Renova Construct** - is a commercial website designed to promote a repair service in the Netherlands.
+  
+  </details>
+
+  <details open> 
+    <summary><h2>🎯 Project Objective</h2></summary>
+
+  - Create a fast, modern and adaptive website to make easy for users to order repair services on vanilla code.
+
+  </details>
+</details>
+
+<details> 
+  <summary><h2>Test</h2></summary>
+
+  <p align="left">
     Test
   </p>
-
-  <details> 
-    <summary><h2>Test</h2></summary>
-      <p align="center">
-        Test
-      </p>
-  </details>
 </details>
 
 <!-- Renova Construct -->
