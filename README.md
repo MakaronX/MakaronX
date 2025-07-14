@@ -28,7 +28,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=500&pause=100&color=00FFAB&center=true&vCenter=true&repeat=false&lines=MY+WORK;THAT+YOU+MUST+SEE!" alt="Blinking Text" />
 
-<div align="center" style="font-size: 2rem;">👇👇👇👇👇👇👇</div>
+<p align="center" style="font-size: 2rem;">👇👇👇👇👇👇👇</p>
 
 ---
 
