@@ -49,9 +49,12 @@
   - Deployed site on **NameCheap** hosting with domain and SSL setup.
 
   ### 🧰 Tech Stack
-  <p align="center">
+  <p align="left">
     <img src="https://skillicons.dev/icons?i=figma,html,css,js,nodejs,php" />
-    + `Design` - `SCSC` - `Telegram API`
+
+    + 
+
+    `Design` - `SCSC` - `Telegram API`
   </p>
 
   ### 🔗 Live website
