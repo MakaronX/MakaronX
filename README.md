@@ -1,36 +1,30 @@
-<!-- HEADER: GIF + VERTICAL NAME -->
+<!-- HEADER: FLEX-БЛОК -->
 <p align="center">
-  <table>
-    <tr>
-      <td>
-        <!-- ГИФКА -->
-        <img src="/img/meme.gif" width="200"/>
-      </td>
-      <td style="padding-left: 30px; vertical-align: middle;">
-        <!-- VERTICAL NAME -->
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&duration=2000&pause=500&color=00FFAB&center=true&vCenter=true&repeat=false&lines=Oleh;Khmilovskyi" alt="Vertical Name" />
-      </td>
-    </tr>
-  </table>
+  <div style="display: flex; align-items: center; justify-content: center; gap: 30px; flex-wrap: wrap;">
+    <!-- ГИФКА -->
+    <img src="/img/meme.gif" width="200"/>
+
+    <!-- ИМЯ В ДВЕ СТРОКИ -->
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&duration=2000&pause=1000&color=00FFAB&center=false&vCenter=true&width=500&height=80&lines=Oleh;Khmilovskyi" alt="Name" />
+  </div>
 </p>
 
-<!-- НЕОНОВЫЕ КНОПКИ -->
+<!-- КРАСИВО СТИЛИЗИРОВАННЫЕ КНОПКИ -->
 <p align="center">
   <a href="mailto:khmilovskyioleh@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-00FFAB?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-C14438?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://t.me/your_username">
-    <img src="https://img.shields.io/badge/Telegram-00FFAB?style=for-the-badge&logo=telegram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Telegram-229ED9?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
   <a href="https://github.com/MakaronX">
-    <img src="https://img.shields.io/badge/GitHub-00FFAB?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-24292F?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://khmilov.com">
-    <img src="https://img.shields.io/badge/Portfolio-00FFAB?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=MakaronX&label=Views&color=00FFAB&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=MakaronX&label=Views&color=4A90E2&style=for-the-badge" />
 </p>
-
 
 ---
 
