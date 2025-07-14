@@ -5,7 +5,7 @@
   <img src="/img/meme.gif" width="250" alt="GIF" />
 </div>
 
-<br/><br/>
+<br/>
 
 <!-- links -->
 <p align="center">
@@ -26,10 +26,56 @@
 
 ---
 
-# MY WORK THAT YOU MUST SEE!
-👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇
+<h1 align="center" style="color:#00FFAB;">🚀 МОИ ПРОЕКТЫ, КОТОРЫЕ ТЫ ОБЯЗАН УВИДЕТЬ!</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00FFAB&center=true&vCenter=true&width=435&lines=🔥+Full-stack+разработчик;💡+Создаю+что+угодно+на+JS/TS;🛠+Всегда+открыт+для+нового!" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="https://yourwebsite.com">
+    <img src="https://img.shields.io/badge/Portfolio-%2300FFAB?style=for-the-badge&logo=firefox&logoColor=white"/>
+  </a>
+  <a href="https://github.com/yourusername">
+    <img src="https://img.shields.io/github/followers/yourusername?label=Follow&style=for-the-badge&color=00FFAB"/>
+  </a>
+  <a href="mailto:youremail@example.com">
+    <img src="https://img.shields.io/badge/Email-%2300FFAB?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 ---
+
+### 👇 МОИ РАБОТЫ (и магия начинается тут)
+
+<p align="center">
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="300"/>
+</p>
+
+### 🧙‍♂️ Немного обо мне:
+- 🧠 Люблю креатив и нестандартные решения
+- 🚧 Сейчас работаю над [Название проекта]
+- 🌐 Стек: TypeScript, React, Node.js, MongoDB
+
+---
+
+### 🧰 Мой инструментарий
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,mongodb,figma,git,github,vscode" />
+</p>
+
+---
+
+### 🔥 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true&title_color=00FFAB&icon_color=00FFAB"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=yourusername&theme=tokyonight&hide_border=true&ring=00FFAB&fire=00FFAB&currStreakLabel=00FFAB"/>
+</p>
+
 
 <!-- Renova Construct -->
 ## 🛠[Renova Construct](https://renovaco.nl)
