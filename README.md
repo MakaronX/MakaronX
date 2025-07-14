@@ -75,10 +75,10 @@
   </summary>
 
   ### 📌 Overview
-  - **Rz Agency** - is a commercial website for hiring employees for work
+  - **Rz Agency** - is a commercial website for hiring employees for work.
 
   ### 🎯 Project Objective
-  - Affordable simple design in a dark style, fast, responsive, animated
+  - Affordable simple design in a dark style, fast, responsive, animated.
 
   ### 💼 What i did:
   - Created **UI/UX** design according to the client's wishes.
@@ -108,7 +108,7 @@
 <!-- region LawLex -->
 <details> 
   <summary>
-    <h1>🏛️</h1>
+    <h1>⚖️</h1>
     <img width="250" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=42&duration=500&pause=100&color=00FFAB&vCenter=true&repeat=false&lines=LawLex" alt="Typing SVG" style="max-width: 100%; height: auto;" />
   </summary>
 
@@ -134,6 +134,73 @@
   <p align="left">
     <a href="https://www.lawlex.live">
       <img alt="LawLex" title="Live Website" src="https://custom-icon-badges.demolab.com/badge/-Click%20to%20Visit%20LawLex-1F222E?style=for-the-badge&logo=fork&logoColor=white" />
+    </a>
+  </p>
+</details>
+
+<!-- #endregion -->
+
+<!-- region GreenXBank -->
+<details> 
+  <summary>
+    <h1>🏛️</h1>
+    <img width="250" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=42&duration=500&pause=100&color=00FFAB&center=true&vCenter=true&repeat=false&lines=Green+X+Bank" alt="Typing SVG" style="max-width: 100%; height: auto;" />
+  </summary>
+
+  ### 📌 Overview
+  - **GreenXBank** is a commercial website designed to promote for the purpose of obtaining bank cards.
+
+  ### 🎯 Project Objective
+  - Create a fast, modern and responsive website using new technologies, animations and maximising usability.
+
+  ### 💼 What i did:
+  - Built a responsive frontend using **React**, **Next.js**, **Tailwind**, **TypeScript**.
+  - Optimised the site for mobile devices.
+  - Optimised the loading speed.
+  - Working in a team with specialists from **NEXEL**.
+  - Animations using external libraries.
+
+  ### 🧰 Tech Stack
+  <p align="left">
+    <img src="https://skillicons.dev/icons?i=figma,react,nextjs,tailwind,ts" />
+  </p>
+
+  ### 🔗 Live website
+  <p align="left">
+    <a href="https://green-x-bank.vercel.app/">
+      <img alt="GreenXBank" title="Live Website" src="https://custom-icon-badges.demolab.com/badge/-Click%20to%20Visit%20GreenXBank-1F222E?style=for-the-badge&logo=fork&logoColor=white" />
+    </a>
+  </p>
+</details>
+
+<!-- #endregion -->
+
+<!-- region Avramenko -->
+<details> 
+  <summary>
+    <h1>💰</h1>
+    <img width="250" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=42&duration=500&pause=100&color=00FFAB&vCenter=true&repeat=false&lines=Avramenko" alt="Typing SVG" style="max-width: 100%; height: auto;" />
+  </summary>
+
+  ### 📌 Overview
+  - **Avramenko** is a personal portfolio site for invistibles services.
+
+  ### 🎯 Project Objective
+  - Create a fast and stylish website with a focus on **UX/UI design**, animation and builder.
+
+  ### 💼 What i did:
+  - Built a responsive frontend using **builder**.
+  - Optimised the site for mobile devices.
+  - Optimised the loading speed.
+  - Teamwork.
+
+  ### 🧰 Tech Stack
+  `Builder`
+
+  ### 🔗 Live website
+  <p align="left">
+    <a href="https://www.avramenko.info/">
+      <img alt="Avramenko" title="Live Website" src="https://custom-icon-badges.demolab.com/badge/-Click%20to%20Visit%20Avramenko-1F222E?style=for-the-badge&logo=fork&logoColor=white" />
     </a>
   </p>
 </details>
