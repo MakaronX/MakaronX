@@ -27,7 +27,7 @@
 ---
 
 <div align="center" style="max-width: 100%;">
-  <img width="auto" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=500&pause=100&color=00FFAB&center=true&vCenter=true&repeat=false&lines=MY+WORK+THAT+YOU+MUST+SEE!" alt="Typing SVG" style="max-width: 100%; height: auto;" />
+  <img width="700" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=500&pause=100&color=00FFAB&center=true&vCenter=true&repeat=false&lines=MY+WORK+THAT+YOU+MUST+SEE!" alt="Typing SVG" style="max-width: 100%; height: auto;" />
 </div>
 
 <h1 align="center">👇👇👇👇👇👇👇</h1>
