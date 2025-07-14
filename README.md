@@ -49,10 +49,17 @@
   - Deployed site on **NameCheap** hosting with domain and SSL setup.
 
   ### 🧰 Tech Stack
-  `Design` - `HTML` - `SCSC` - `JavaScript` - `PHP` - `Gulp` - `Telegram API`
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=figma,html,css,js,nodejs,php" />
+    + `Design` - `SCSC` - `Telegram API`
+  </p>
 
   ### 🔗 Live website
   👉 [https://renovaco.nl](https://renovaco.nl)
+
+  <p align="left">
+    <a href="https://renovaco.nl"><img alt="Renova" title="Live Website" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20To%20Open%20The%20Site-1F222E?style=for-the-badge&logoColor=white&logo=fork"/></a>
+  </p>
 </details>
 
 <details> 
