@@ -1,12 +1,10 @@
-<!-- HEADER: FLEX-БЛОК -->
-<p align="center">
-  <div style="display: flex; align-items: center; justify-content: center; gap: 30px; flex-wrap: wrap;">
+<div align="center">
+  <div align="center">
     <img src="/img/meme.gif" width="180"/>
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&duration=2000&pause=1000&color=00FFAB&center=false&vCenter=true&width=500&height=80&lines=Oleh;Khmilovskyi" alt="Name" />
   </div>
-</p>
+</div>
 
-<!-- КРАСИВО СТИЛИЗИРОВАННЫЕ КНОПКИ -->
 <p align="center">
   <a href="mailto:khmilovskyioleh@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-C14438?style=for-the-badge&logo=gmail&logoColor=white" />
