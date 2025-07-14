@@ -12,7 +12,7 @@
   <a href="mailto:khmilovskyioleh@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-C14438?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://t.me/your_username">
+  <a href="https://telegram.me/Okhmilov">
     <img src="https://img.shields.io/badge/Telegram-229ED9?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
   <a href="https://github.com/MakaronX">
@@ -24,18 +24,13 @@
   <img src="https://komarev.com/ghpvc/?username=MakaronX&label=Views&color=4A90E2&style=for-the-badge" />
 </p>
 
----
+<!-- under cap -->
 
 <div align="center" style="max-width: 100%;">
   <img width="700" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=500&pause=100&color=00FFAB&center=true&vCenter=true&repeat=false&lines=MY+WORK+THAT+YOU+MUST+SEE!" alt="Typing SVG" style="max-width: 100%; height: auto;" />
 </div>
 
-<div align="center">
-
-  # 👇👇👇👇👇👇👇
-</div>
-
----
+<h2 align="center">👇👇👇👇👇👇👇</h2>
 
 <!-- Renova Construct -->
 ## 🛠[Renova Construct](https://renovaco.nl)
