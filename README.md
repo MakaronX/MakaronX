@@ -1,7 +1,7 @@
 <!-- HEADER: FLEX-БЛОК -->
 <p align="center">
   <div style="display: flex; align-items: center; justify-content: center; gap: 30px; flex-wrap: wrap;">
-    <img src="/img/meme.gif" width="500"/>
+    <img src="/img/meme.gif" width="180"/>
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&duration=2000&pause=1000&color=00FFAB&center=false&vCenter=true&width=500&height=80&lines=Oleh;Khmilovskyi" alt="Name" />
   </div>
 </p>
