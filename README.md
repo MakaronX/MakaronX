@@ -26,11 +26,9 @@
 
 ---
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=48&duration=2000&pause=500&color=00FFAB&center=true&vCenter=true&repeat=false&lines=MY+WORK+THAT+YOU+MUST+SEE!" alt="Blinking Name" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&duration=500&pause=100&color=00FFAB&center=true&vCenter=true&repeat=false&lines=MY+WORK+THAT+YOU+MUST+SEE!" alt="Blinking Name" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=500&pause=100&center=true&vCenter=true&repeat=false&lines=👇👇👇👇👇👇👇" alt="Blinking Name" />
-
-<p align="center">👇👇👇👇👇👇👇</p>
+<h1 align="center">👇👇👇👇👇👇👇</h1>
 
 ---
 
