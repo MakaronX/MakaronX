@@ -1,8 +1,7 @@
-<header id="header" align="center">
-  <h1 style="margin: 0; font-size: 36px;">Oleh</h1>
-  <h3 style="margin: 0; font-weight: normal; color: gray;">Khmilovskyi</h3>
+<div id="header" align="center">
+  <h1 style="margin: 0; font-size: 36px; color: #00FFAB;">Oleh Khmilovskyi</h1>
   <img src="/img/meme.gif" width="200"/>
-</header>
+</div>
 
 <div id="views" align="center">
   <img src="https://komarev.com/ghpvc/?username=MakaronX" alt=""/>
