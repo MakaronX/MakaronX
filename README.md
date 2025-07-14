@@ -9,20 +9,13 @@
 
 <!-- links -->
 <p align="center">
-  <a href="mailto:khmilovskyioleh@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-C14438?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://telegram.me/Okhmilov">
-    <img src="https://img.shields.io/badge/Telegram-229ED9?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
-  <a href="https://github.com/MakaronX">
-    <img src="https://img.shields.io/badge/GitHub-24292F?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://khmilov.com">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=MakaronX&label=Views&color=4A90E2&style=for-the-badge" />
+  <a href="mailto:khmilovskyioleh@gmail.com"><img src="https://img.shields.io/badge/Gmail-C14438?style=for-the-badge&logo=gmail&logoColor=white" style="display:inline-block;" /></a>
+  <a href="https://telegram.me/Okhmilov"><img src="https://img.shields.io/badge/Telegram-229ED9?style=for-the-badge&logo=telegram&logoColor=white" style="display:inline-block;" /></a>
+  <a href="https://github.com/MakaronX"><img src="https://img.shields.io/badge/GitHub-24292F?style=for-the-badge&logo=github&logoColor=white" style="display:inline-block;" /></a>
+  <a href="https://khmilov.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" style="display:inline-block;" /></a>
+  <img src="https://komarev.com/ghpvc/?username=MakaronX&label=Views&color=4A90E2&style=for-the-badge" style="display:inline-block" />
 </p>
+
 
 <!-- under cap -->
 ---
