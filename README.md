@@ -30,7 +30,7 @@
 <details> 
   <summary>
     <h1>🛠</h1>
-    <img width="250" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=42&duration=500&pause=100&color=ff9900&center=true&vCenter=true&repeat=false&lines=Renova+Construct" alt="Typing SVG" style="max-width: 100%; height: auto;" />
+    <img width="250" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=42&duration=500&pause=100&color=00FFAB&center=true&vCenter=true&repeat=false&lines=Renova+Construct" alt="Typing SVG" style="max-width: 100%; height: auto;" />
   </summary>
 
   ### 📌 Overview
@@ -71,7 +71,45 @@
 <details> 
   <summary>
     <h1>🛠</h1>
-    <img width="250" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=42&duration=500&pause=100&color=f5bb40&vCenter=true&repeat=false&lines=Rz+Agency" alt="Typing SVG" style="max-width: 100%; height: auto;" />
+    <img width="250" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=42&duration=500&pause=100&color=00FFAB&vCenter=true&repeat=false&lines=Rz+Agency" alt="Typing SVG" style="max-width: 100%; height: auto;" />
+  </summary>
+
+  ### 📌 Overview
+  - **Rz Agency** - is a commercial website for hiring employees for work
+
+  ### 🎯 Project Objective
+  - Affordable simple design in a dark style, fast, responsive, animated
+
+  ### 💼 What i did:
+  - Created **UI/UX** design according to the client's wishes.
+  - Built a responsive frontend using **React**, **Next.js**, **Tailwind**, **TypeScript**, **JavaScript**.
+  - Added form processing using an external tool.
+  - Multilingual function with **TypeScript** and **JavaScript**.
+  - Optimised the loading speed.
+  - Teamwork.
+  - Animations using external libraries.
+  - Deployed the site on the hosting with domain and SSL setup.
+
+  ### 🧰 Tech Stack
+  <p align="left">
+    <img src="https://skillicons.dev/icons?i=figma,react,nextjs,tailwind,ts,js" />
+  </p>
+
+  ### 🔗 Live website
+  <p align="left">
+    <a href="https://rzagency.nl">
+      <img alt="RzAgency" title="Live Website" src="https://custom-icon-badges.demolab.com/badge/-Click%20to%20Visit%20RZ%20Agency-1F222E?style=for-the-badge&logoColor=white&logo=fork"/>
+    </a>
+  </p>
+</details>
+
+<!-- #endregion -->
+
+<!-- region LawLex -->
+<details> 
+  <summary>
+    <h1>🛠</h1>
+    <img width="250" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=42&duration=500&pause=100&color=00FFAB&vCenter=true&repeat=false&lines=LawLex" alt="Typing SVG" style="max-width: 100%; height: auto;" />
   </summary>
 
   ### 📌 Overview
