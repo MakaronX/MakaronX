@@ -2,18 +2,18 @@
   <table>
     <tr>
       <td>
-        <img src="/img/meme.gif" width="150" alt="gif" />
+        <img src="https://media.giphy.com/media/3o6ZtaO9BZHcOjmErm/giphy.gif" width="160" alt="gif"/>
       </td>
-      <td align="left" style="padding-left: 20px;">
-        <h1 style="margin: 0; font-size: 36px;">Oleh</h1>
-        <h3 style="margin: 0; font-weight: normal; color: gray;">Khmilovskyi</h3>
+      <td style="vertical-align: middle; padding-left: 20px; text-align: left;">
+        <p style="margin: 0; font-size: 36px; font-weight: bold; font-family: 'Segoe UI', sans-serif;">Oleh</p>
+        <p style="margin: 0; font-size: 20px; color: #888; font-family: 'Segoe UI', sans-serif;">Khmilovskyi</p>
       </td>
     </tr>
   </table>
 </div>
 
-<div id="views" align="center">
-  <img src="https://komarev.com/ghpvc/?username=MakaronX&style=flat-square" alt="profile views"/>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=MakaronX&label=Profile%20views&color=0e75b6&style=flat-square" alt="profile views"/>
 </div>
 
 ---
