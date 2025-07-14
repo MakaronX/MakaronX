@@ -57,8 +57,7 @@
   ### 🔗 Live website
   <p align="left">
     <a href="https://renovaco.nl">
-      <img alt="Renova" title="Live Website"
-        src="https://img.shields.io/badge/-Click%20to%20Visit%20Renova%20Construct-%2300FFAB?style=for-the-badge&logo=internet-explorer&logoColor=black&labelColor=1F1F1F&color=00FFAB" />
+      <img alt="Renova" title="Live Website" src="https://custom-icon-badges.demolab.com/badge/-Click%20to%20Visit%20Renova%20Construct-1F222E?style=for-the-badge&logoColor=white&logo=fork"/>
     </a>
   </p>
 </details>
