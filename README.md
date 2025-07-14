@@ -113,30 +113,27 @@
   </summary>
 
   ### 📌 Overview
-  - **Rz Agency** - is a commercial website for hiring employees for work
+  - **LawLex** is a website offering help in recovering funds from brokers, crypto exchanges, pyramid schemes and fraudulent entities.
 
   ### 🎯 Project Objective
-  - Affordable simple design in a dark style, fast, responsive, animated
+  - Create a responsive, responsive and robust website from a ready-made design that clearly communicates the client's mission and inspires trust.
 
   ### 💼 What i did:
-  - Created **UI/UX** design according to the client's wishes.
-  - Built a responsive frontend using **React**, **Next.js**, **Tailwind**, **TypeScript**, **JavaScript**.
+  - Built a responsive frontend using **HTML**, **SCSS** and **JavaScript**.
   - Added form processing using an external tool.
-  - Multilingual function with **TypeScript** and **JavaScript**.
+  - Optimised the site for mobile devices.
   - Optimised the loading speed.
   - Teamwork.
-  - Animations using external libraries.
-  - Deployed the site on the hosting with domain and SSL setup.
 
   ### 🧰 Tech Stack
   <p align="left">
-    <img src="https://skillicons.dev/icons?i=figma,react,nextjs,tailwind,ts,js" />
+    <img src="https://skillicons.dev/icons?i=figma,html,sass,css,js" />
   </p>
 
   ### 🔗 Live website
   <p align="left">
-    <a href="https://rzagency.nl">
-      <img alt="RzAgency" title="Live Website" src="https://custom-icon-badges.demolab.com/badge/-Click%20to%20Visit%20RZ%20Agency-1F222E?style=for-the-badge&logoColor=white&logo=fork"/>
+    <a href="https://www.lawlex.live">
+      <img alt="LawLex" title="Live Website" src="https://custom-icon-badges.demolab.com/badge/-Click%20to%20Visit%%20LawLex-1F222E?style=for-the-badge&logoColor=white&logo=fork"/>
     </a>
   </p>
 </details>
