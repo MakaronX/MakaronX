@@ -20,7 +20,7 @@
 ---
 
 <div align="center" style="max-width: 100%;">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=500&pause=100&color=00FFAB&center=true&vCenter=true&repeat=false&lines=Renova" alt="Typing SVG" style="max-width: 100%; height: auto;" />
+  <img width="700" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=500&pause=100&color=00FFAB&center=true&vCenter=true&repeat=false&lines=MY+WORK+THAT+YOU+MUST+SEE!" alt="Typing SVG" style="max-width: 100%; height: auto;" />
 </div>
 
 ---
@@ -34,7 +34,7 @@
     <summary><h2>📌 Overview</h2></summary>
 
   - **Renova Construct** - is a commercial website designed to promote a repair service in the Netherlands.
-  
+
   </details>
 
   <details open> 
