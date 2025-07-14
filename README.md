@@ -51,10 +51,7 @@
   ### 🧰 Tech Stack
   <p align="left">
     <img src="https://skillicons.dev/icons?i=figma,html,css,js,nodejs,php" />
-
-    + 
-
-    `Design` - `SCSC` - `Telegram API`
+    <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" />
   </p>
 
   ### 🔗 Live website
