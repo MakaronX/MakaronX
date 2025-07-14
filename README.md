@@ -144,7 +144,7 @@
 <details> 
   <summary>
     <h1>🏛️</h1>
-    <img width="250" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=42&duration=500&pause=100&color=00FFAB&center=true&vCenter=true&repeat=false&lines=Green+X+Bank" alt="Typing SVG" style="max-width: 100%; height: auto;" />
+    <img width="250" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=42&duration=500&pause=100&color=00FFAB&vCenter=true&repeat=false&lines=GreenXBank" alt="Typing SVG" style="max-width: 100%; height: auto;" />
   </summary>
 
   ### 📌 Overview
